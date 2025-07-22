@@ -131,7 +131,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 Sorularınız için:
 - GitHub Issues bölümünü kullanın
-- Email: [email@example.com]
+- Email: [nbmavi@yandex.com]
 
 ## 🙏 Teşekkürler
 
